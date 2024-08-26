@@ -5,6 +5,6 @@ Repositório da Disciplina de TE em ES
 Aqui deve ter um outro texto explicativo
 
 ### Contato?
-testando@gmail.com
+testandoo@gmail.com
 
 Christian Martins
